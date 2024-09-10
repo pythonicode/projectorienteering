@@ -14,8 +14,8 @@ export default function Index() {
   return (
     <div className="font-serif p-4 max-w-screen-sm mx-auto">
       <h1 className="text-xl font-bold">Project Orienteering</h1>
-      <p className="mb-8">Empowering Elite US Orienteering to Succeed at the World Stage</p>
-      <p className="mb-4">My name is Anthony, I am excited to announce the launch of Project Orienteering, a foundation with one goal: to empower elite orienteers with the resources, training, and support needed to succeed at international competitions.</p>
+      <p className="mb-8">Empowering Elite US Orienteering to Dominate the World Stage</p>
+      <p className="mb-4">I am excited to announce the launch of Project Orienteering, a foundation with one goal: to empower elite orienteers with the resources, training, and support needed to succeed at international competitions.</p>
       <p className="mb-8">
       The United States is a dominant force in all kinds of sports: power, strength and endurance, however in orienteering our performance is severely behind top-tier orienteering countries like Sweden, Switzerland, and Norway. It's time to close that gap
       </p>
